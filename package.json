@@ -32,7 +32,7 @@
     "load-grunt-tasks": "*",
     "mocha": "*",
     "nock": "^9.0.2",
-    "sinon": "*",
+    "sinon": ">=2.3.7",
     "sinon-chai": "*"
   },
   "dependencies": {
