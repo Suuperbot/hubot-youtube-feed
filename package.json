@@ -23,7 +23,7 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "chai": "*",
+    "chai": ">=4.1.0",
     "grunt-contrib-watch": "~1.0.0",
     "grunt-mocha-test": "~0.13.2",
     "grunt-release": "~0.14.0",
