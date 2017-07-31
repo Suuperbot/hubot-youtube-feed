@@ -30,7 +30,7 @@
     "hubot": "^2.9.3",
     "hubot-mock-adapter": "^1.0.0",
     "load-grunt-tasks": "*",
-    "mocha": "*",
+    "mocha": ">=3.5.0",
     "nock": "^9.0.2",
     "sinon": "*",
     "sinon-chai": "*"
