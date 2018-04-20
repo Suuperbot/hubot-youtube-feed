@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "chai": "*",
-    "grunt-contrib-watch": "~1.0.0",
+    "grunt-contrib-watch": "~1.0.1",
     "grunt-mocha-test": "~0.13.2",
     "grunt-release": "~0.14.0",
     "hubot": "^2.9.3",
